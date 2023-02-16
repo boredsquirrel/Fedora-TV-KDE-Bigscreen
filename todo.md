@@ -1,0 +1,5 @@
+- [ ] find out how to make automatic system-upgrades between versions
+- [ ] create Applaunchers for FF Webapps?
+- [ ] native host integration of FF Flatpak
+- [ ] KDE connect integration
+- [ ] lets see
