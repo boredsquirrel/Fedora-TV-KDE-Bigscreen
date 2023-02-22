@@ -1,5 +1,6 @@
 # Linux TV using Plasma Bigscreen and Fedora Kinoite?
 
+![Plasma Bigscreen Image](https://github.com/trytomakeyouprivate/Fedora-TV-KDE-Bigscreen/blob/main/Content/PlasmaBigScreen.png)
 
 This is an experiment on creating the perfect TV operating system. It should result in a modern, secure, self-maintaining, immutable and easy-to-use Linux TV you dont need to care about, because no update can break it.
 
@@ -47,4 +48,8 @@ Many optional changes like installed Apps and Addons are optional
 - Install Plasma bigscreen and mycroft through rpm-ostree, last command
 - notify that now a reboot is needed
 
-([image source](https://www.muylinux.com/wp-content/uploads/2020/03/PlasmaBigScreen.jpg))
+## Modified Firefox
+![Image of Tabscreen](https://github.com/trytomakeyouprivate/Fedora-TV-KDE-Bigscreen/blob/main/Content/Firefox-TV.png)
+
+
+([Plasma Biscreen image source](https://www.muylinux.com/wp-content/uploads/2020/03/PlasmaBigScreen.jpg))
