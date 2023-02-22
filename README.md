@@ -1,6 +1,6 @@
 # Linux TV using Plasma Bigscreen and Fedora Kinoite?
 
-![Plasma Bigscreen Image](https://github.com/trytomakeyouprivate/Fedora-TV-KDE-Bigscreen/blob/main/Content/PlasmaBigScreen.png)
+<img src="https://github.com/trytomakeyouprivate/Fedora-TV-KDE-Bigscreen/blob/main/Content/PlasmaBigScreen.png" alt="drawing" width="600"/>
 
 This is an experiment on creating the perfect TV operating system. It should result in a modern, secure, self-maintaining, immutable and easy-to-use Linux TV you dont need to care about, because no update can break it.
 
