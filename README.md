@@ -54,7 +54,7 @@ System:
 - warn the user that apps are now installed and it takes some time
 
 ## Modified Firefox
-![Image of Tabscreen](https://github.com/trytomakeyouprivate/Fedora-TV-KDE-Bigscreen/blob/main/Content/Firefox-TV.png)
+![Image of Tabscreen](https://github.com/trytomakeyouprivate/Fedora-TV-KDE-Bigscreen/blob/main/Content/TV-Firefox.png)
 
 
 ([Plasma Biscreen image source](https://www.muylinux.com/wp-content/uploads/2020/03/PlasmaBigScreen.jpg))
