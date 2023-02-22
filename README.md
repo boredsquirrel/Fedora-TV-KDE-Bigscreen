@@ -44,6 +44,7 @@ Firefox:
 - set a custom start page for apps like Netflix, Youtube, Torrent stuff e.g.?
 - install addons: UBlock Origin, Sponsorblock, NoScript, Libredirect, [Netflix ratings](https://addons.mozilla.org/de/firefox/addon/film-scores-for-netflix), [Netflix Category Browser](https://addons.mozilla.org/de/firefox/addon/netflix-category-browser), [Netflix Fixer for Linux](https://addons.mozilla.org/de/firefox/addon/netflix-fixer-for-linux), [Netflix max Bitrate](https://addons.mozilla.org/de/firefox/addon/netflix-max-bitrate), [Netflix International](https://addons.mozilla.org/de/firefox/addon/netflix-international), [Netflix AdBlock](https://addons.mozilla.org/de/firefox/addon/netflix-adblock), ... (some are not installed but recommended as they may track you)
 - import Noscript and UBlock settings? Preset Blocklists
+- add [simple Context menus](https://github.com/trytomakeyouprivate/Simple-Firefox-Menus) for a clutter-free experience
 
 System:
 - change KDE settings: autologin without password, ...
